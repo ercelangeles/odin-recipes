@@ -6,4 +6,6 @@ This project is a basic recipe website which displays various recipes and steps 
 ## Demonstrated Skills
 - Create a homepage
 - Create links that direct the user to recipes
-- (Add more or revise)
+- Create links from recipe webpages that go back to homepage
+- Add images to recipe webpages
+- Use lists to describe the recipe
